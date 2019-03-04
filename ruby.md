@@ -19,3 +19,7 @@ Replace with current ruby version in use on system:
 ## Better Ruby testing
 
 http://www.betterspecs.org/#http
+
+## Tapping a method in Ruby
+
+https://medium.com/aviabird/ruby-tap-that-method-90c8a801fd6a
